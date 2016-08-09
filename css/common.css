@@ -1,0 +1,46 @@
+* {
+	font-family: "Dosis"
+}
+.a {
+	font-size: 44px;
+}
+.a2 {
+	font-size: 30px;
+}
+.a .a2 {
+	font-family: "Open Sans";
+}
+/*TEXTO*/
+a {
+	text-decoration: none;
+}
+button {
+	border: none;
+	border-radius: 75%;
+}
+p {
+	text-align: justify;
+}
+/*MARGENES*/
+.mr_1 {
+	margin-top: 3%;
+}
+.mr_2 {
+	margin-top: 5%;
+}
+.mr_2P {
+	margin-bottom: 5%;
+}
+.mr_3 {
+	margin-top: 7%;
+}
+.mr_4 {
+	margin-left: 3%;
+}
+.mr_5 {
+	margin-left: 3%;
+}
+/*FONDO*/
+.black {
+	background-color: black;
+}

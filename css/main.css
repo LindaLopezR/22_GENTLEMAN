@@ -1,0 +1,57 @@
+/*ENCABEZADO*/
+.black {
+	background-color: black;
+}
+/*MENU*/
+.color {
+	color: white;
+	padding-right: 6%;
+}
+.color:hover {
+	color: red;
+}
+/*SECCION 2*/
+/*MENÚ PEQUEÑO*/
+.colorII {
+	color: black;
+	padding-left: 3%;
+}
+.colorII:hover {
+	color: gray;
+}
+hr {
+	border-style: dashed;
+}
+/*FOOTER*/
+/*MENÚ */
+.b1 {
+	padding: 0% 2%;
+	width: 17%;
+}
+.b2 {
+	padding: 1% 2%;
+	width: 10%;
+	background-color: gray;
+}
+li {
+	list-style:none;
+}
+.icon {
+	border: 1px dashed white;
+	border-radius: 100%;
+	width: 30px;
+	padding: 1%;
+	height: 30px;
+	display: inline-block;
+}
+/*Clientes*/
+.comilla {
+	font-size: 60px;
+}
+.style {
+	border-style: solid;
+}
+/*Twitter*/
+.roja {
+	color: red;
+}
