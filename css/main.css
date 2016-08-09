@@ -8,7 +8,7 @@
 	padding-right: 6%;
 }
 .color:hover {
-	color: red;
+	color: #DF0174;
 }
 /*SECCION 2*/
 /*MENÚ PEQUEÑO*/
@@ -21,6 +21,10 @@
 }
 hr {
 	border-style: dashed;
+}
+/*FRASE*/
+.frase {
+	font-size: 25px;
 }
 /*FOOTER*/
 /*MENÚ */
@@ -53,5 +57,31 @@ li {
 }
 /*Twitter*/
 .roja {
-	color: red;
+	color: #DF0174;
+}
+.follow0 {
+	background-color: gray;
+	padding: 3% 6%;
+	border-radius: 5%;
+}
+.follow {
+	background-color: #DF0174;
+	border-radius: 5%;
+	width: 65%;
+}
+/*Formulario*/
+.envio {
+	display: inline-block;
+	border: 1px solid white;
+	padding: 2%;
+}
+input+button {
+	padding: 1%;
+	border-radius: 0;
+	background-color: black;
+	color: white;
+}
+/*Telefono*/
+.tel {
+	font-size: 23px;
 }

@@ -40,7 +40,13 @@ p {
 .mr_5 {
 	margin-left: 3%;
 }
+.mr_6 {
+	margin-top: 17%;
+}
 /*FONDO*/
 .black {
 	background-color: black;
+}
+.pre {
+	font-size: 12px;
 }
