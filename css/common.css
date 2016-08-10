@@ -16,7 +16,7 @@ a {
 }
 button {
 	border: none;
-	border-radius: 75%;
+	border-radius: 20px;
 }
 p {
 	text-align: justify;
@@ -49,4 +49,9 @@ p {
 }
 .pre {
 	font-size: 12px;
+}
+/*ICONOS*/
+.icn {
+	display: inline-block;
+	margin-right: 5px;
 }
